@@ -1,0 +1,10 @@
+.hello{
+  background-color: powderblue;
+  color: red;
+}
+#h{
+  color: blue;
+}
+.table,.th,.td{
+  border: 10px solid black;
+}
